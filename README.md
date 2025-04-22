@@ -5,9 +5,11 @@ pkg install python
 
 pkg install qemu-user-i386
 
+pkg install elfutils
+
 pkg install git
 
-git clone https://github.com/S3111455702S/AStools.git
+git clone https://github.com/S3111455702S/as.git
 
 cd as
 
