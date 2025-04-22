@@ -7,7 +7,7 @@ pkg install qemu-user-i386
 
 pkg install git
 
-git clone https://github.com/3111455702sd/as
+git clone https://github.com/S3111455702S/AStools.git
 
 cd as
 
